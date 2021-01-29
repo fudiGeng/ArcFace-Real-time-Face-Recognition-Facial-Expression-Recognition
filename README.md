@@ -6,7 +6,7 @@ A working with real-time, multi-person and multi-threaded face and facial expres
 This is a python multi-threaded framework for real-time, multi-person face and facial expression recognition based on Pytorch and ArcFace SDK v3.0(C++). This repo includes face detecition, face tracking, face fearture extraction and face feature comparison.The input of the USB camera is 30 fps and the outputs can reach **28~30** fps, which meets the standard of real-time detection.In this work, the overall running speed depends on the face detection thread **without being affected by the face recognition process and the expression recognition process**.
 
 
-## Demos ##
+## Demos ## 
 ![Image text](https://github.com/crawfordfan/ArcFace-Real-time-Face-Recognition-Facial-Expression-Recognition/blob/main/figures/dehua.gif)
 ![Image text](https://github.com/crawfordfan/ArcFace-Real-time-Face-Recognition-Facial-Expression-Recognition/blob/main/figures/xue.gif)
 
